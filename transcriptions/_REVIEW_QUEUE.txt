@@ -585,3 +585,423 @@ p699-p708 [testament c.5-c.14] — reconciled by 3 image-grounded sub-agents und
 	CONFIDENCE per page: p700 converged (will opening); p702/p706-left converged-on-substance (church
 	bequest, web-backed); p699/p701/p704/p705/p707/p708 mixed→degenerate (flagged candidates). The
 	whole document remains a strong candidate for a paleographer + (ideally) a >200 ppi rescan.
+
+x-50 (capture 4, 2026-10-31; read by gemini-4-argon, reconciled by Opus 5.5)
+	p946	label start year: third digit ambiguous, 1604 / 1664 / 1684.
+	p948	Visitor 1734, Prevost of S. Nazaro: settled as Repossium at the pixels, matching X 49 p904. Both reads and the first reconcile had it wrong.
+	p948	Parochum Rodelli[?]: ink has d, as X 49 p900 does. Place may be Rovello.
+	p949,p950	Butius = Gian Batta Buzzi (03-04). Place "Vigluuij"[?] read as Viggiù, Pieve di Arcisate; u/n ambiguous.
+	p949	Crivelli testament date 7 Oct 1527: year visible but worth a check. Many line-ends lost in the gutter.
+	p950	Ghirlanda faculty 10 Feb 173[?]: last digit lost at the edge (Argon high 174, low 173). Interlinear word above Comensis, noua[?].
+	p952	nigroq[ue], [...] debitoq[ue]: one word unread. "a V[?] Matheo Guzzetto": V-like sign, venerabili or q[uondam].
+	p954	"su[...] calculis": sui or sub, cut at the edge.
+
+x-24-1610-57 (capture 4, 2026-10-31; two gemini-4-argon reads, reconciled by Opus 5.5)
+	p710	Signature under the rescript: Ant[onius] de Rob.[?], only the start is firm; reader 2 Nob:. The light-ink line above the rescript is illegible. Year 1635 and day 23 are firm at 10x; reader 2's day 28 rejected, the digit is the same glyph as the 3 of 1635.
+	p711	Weak readings throughout lines 10-14 and the subscription: Ghillini[?] (two tall strokes; reader 1 Ghilini, reader 2 Cal.ni), diuis[io]ne[?] della Pieue, dal Ticho[?] (reader 2 dall'istessa s'ha; with sospetti in May 1630 Ticino would make sense, but the ink has no n), del Nuncio[?], Aff[ettionatissi]mo[?], P.[?] Carlo Cantin[...]. Needs a paleographer before anyone cites the letter.
+	p711	Line 7: p[ro]rogata[?], reader 2 surrogata[?]. Word opens with a descender, then shows an ascender and two descenders, more than either reading accounts for. Sense takes either.
+	p712	Year: 1653[?]. All four reads of the two frames give 1653, one marked uncertain, so reads do not move it further; the ink stays open. Third digit is two separate strokes, top arc plus thin stem with a small left foot and no bowl; last digit is a single continuous 3, so it is not 33. 5 best, 7 possible on the pixels alone, 4 excluded. 1673 falls outside the volume label (1610-57). A blot sits on the 6. p710 (Jan 1635) has the provost only then made V.F. of Appiano, which also argues against 1633.
+	p712	Signature under Concedimus not readable, M[...] only; letters after M look like -all- or -all[e]t, long flourish.
+	p717	Interlinear pen correction read illis[?] above struck istius; printed istis overwritten to illis. Sense wants illis ... illis. Reader 2 reads the pen as ijs and as striking only the u of istius; the rule runs through the whole word.
+	p719	Two pen lines in the left margin, cut by the frame: [...]et; [...]. Word before imbecillitas retouched by pen, read sit[?]. Printed sic vt struck. Reader 1: printed est altered to sit; reader 2: printed sit altered to est. Striking sic vt makes the indicative est the expected result, so the correction may be to est. The pen covers the type; the second printed copy can show what was printed.
+	p722	Line 3 opening word: intus[?], faint, thin strokes with a long arc above. Both readers give intus, which has no place in the address and is absent at the same point on p726. Could be another word, e.g. a qualifier of Milan.
+	p724	Catar[um][?] litterar[um]: the formula expects latarum; initial is the same C as Censurar[um], unlike the l of litterar[um]. Reader 1 Catar[um], reader 2 latar[um]. Left as read.
+	p725	Name of the Camera commissary: Coperchij[?], letters chij retouched in heavier ink.
+	p726	Provisee: Jo: Antonio M[...][?] Biumio at the edge, against Antonius Maria on p725, p730, p732, p735. Both readers stop at Antonio. At 9x two long oblique strokes stand after Antonio, on the page, cut by the edge, the shape of the M of Marię on p725. So a further word stands there and M is the likeliest letter, not certain. If it is Maria, Giovanni Antonio Maria is the full form and p721 rubric and p725+ shorten it.
+	p727	Holder surname: Amiralijs[?]. Letter after Amira- has ascender and long descender, g or l; I first read Amiragijs. p737 is plain Amiralijs, so I followed it. Reader Amiraglio. pri[ncipa]lis[?] on line 5, reader prius.
+	p732	prouidisse as written, where the formula expects profuisse. Probable copyist error, kept.
+	p736	Line 11: ink reads prius nobis a[?] contentis, reader de (formula). No d ascender visible, only show-through nearby. nobis is repeated from line 10.
+	p737	Surname: Salodiu[m][?], both readers Latorium. Clear S-a-l at start, looped d after; no t or r. Same man as Sal[...] on p722; p726 now reads Salod[...], tall d at the edge, which supports it. Check against other Milan sources for this canon.
+	p738	Line 14: word after Ser[enissi]mum is not ac. Thin oblique opening stroke, e or o, r with a long tail, the same shape as the ser before it, with the superscript mu- sitting between them. Written ser[?]. Reader 1 ac, reader 2 per. Sense wants ac or et, so possibly dittography of Ser.
+	p739	Line 2: uibratores, the -s tail as in Abbates (p737) and detentores (p729), not the flat final stroke of Zelatorem on line 1. Reader 1 and formula vibratorem. Probable copyist slip, kept. Reader 2 Zelatores is wrong: line 1 ends in m.
+	p739	Line 7: nobis[?], reader 1 nobis, reader 2 vobis. First letter is under a long arc and n or v cannot be told. Changes who the subdelegates are in the sentence.
+	p740	Line 5 uisis[?] very faint; line 11 end a S[anctissi]mo[?] D. N.[?] nearly gone at the edge. per illos stands where per vos is expected.
+	p744	Name: Vicecomites[?] (line 6). Ending is not firm; read 1 Vicecomit[es], read 2 Vicecomes. Same man as Vicecomitem on p742.
+	p744	uobis[?] (line 14). Both reads nobis; initial n/u ambiguous in this hand, and the sentence addresses the subdelegates.
+	p745	si[n]g[u]lar[um][?] (line 10). Read 1 si eor[um], read 2 si[n]g[u]lor[um]. Abbreviation not settled.
+	p746	sicut[?] (line 11). Both reads p[ro]ut; word form compared with sicut on p753 line 5. Also line 14 is written sex dies spatium, both reads sex dier[um].
+	p748	poss[essio]nis[?] (line 6). Last word is covered by pen strokes, possibly struck.
+	p749	Carta number reads 25 in plain ink; the series 12, 13, 14 on p743, p745, p747 would give 15.
+	p755	Carta number faint, reads 10[?]; the series would give 18. Line 4 sicut[?]: read 1 quos, read 2 p[er].
+	p758	Line 1 year word cut at the gutter: Mill[...]. Line 8 after A. Justus a cut abbreviation left as [...]; read 2 Sub[stitutus][?], ink shows dash, minims and a tall stroke only. Line 7 Panizza has the middle letters written over. Date itself is firm: xiiij has four dots, 14 May 1593.
+	p760	Number: decis. 350 (line 30). Read 1 380, read 2 350; top bar of a 5 is visible under show-through. Check against p714-p720.
+	p760	Number: in apendi. 5. par. (line 31). Both reads 3; the glyph matches the italic 5 of 315 on p764, not the z-shaped italic 3. Check against the other copy.
+	p760	Place: Applani (line 36). Both reads Appiani; the l is clear, and it matches p759 and p765.
+	p762	Citation: in cap. vt[?] Apostolica (line 8). Both reads si; ink shows swash v + t, no dot and no long s. Check against the other copy.
+	p762	Pen correction on illis (line 17): ll in brown ink over the print, reading below hidden. The other copy should show what was printed. The same stroke appears mirrored on p761 between modum and regulae.
+	p767	Note a penna nel margine sinistro, tagliate dal bordo della carta: letta solo la fine [...]interde[?] accanto alle righe 2-3, illeggibile accanto alle righe 4-5. Lettura 1 "iuxta d. / p.te 1.a"; lettura 2 "interde / N.". Serve il foglio originale.
+	p769	Citazione: "Bart. in l. illa[?] nu. 5. ff. de verb. oblig.": a 6x due aste o una, inchiostro impastato; entrambe le letture dicono "ila".
+	p770	Citazione "l. 111. vbi DD. ff. de acq. possess.": tre aste uguali, nessun punto fra loro. Lettura 1 "l. 1. §. 1."; lettura 2 "l. 111.". Potrebbe essere romano III (l. 3). Trascritto come stampato.
+
+x-25-1639-58 (capture 4, 2026-10-31; two gemini-4-argon reads, reconciled by Opus 5.5)
+	p781	Year: "sino all'anno 1597[?]"; both reads 1595, but the last digit has a flat top and left stem like a 7, unlike the 5 in the same date. Reads as vacancy 1594-1597.
+	p781	Amount: two Masses "L 5[...]", second digit cut at the page curl; read 1 "58", read 2 illegible.
+	p781	Read "et li doi[?] moggi[?] de / poueri"; read 1 "l 104 morsi", read 2 "l'iij moggia". X 5 p347 has two modia for the poor charged on this chapel, which fits, but the ink is faded.
+	p781	Last line: "no[n][?] ha officiato". A long stroke crosses the word: abbreviation bar of no[n] or a cancellation. If cancelled, Crivello officiated six months rather than failing to. Both reads "non".
+	p782	Place: "Orchiueno[?]" (Diocese of Sarzana); read 1 "Orserino", read 2 "Orchiueno".
+	p782	Surname: "Aggrato[?]" with two descenders, one blotted; reads "Agrado", "Agrato".
+	p783	Day of the letter: "il 2[...] Luglio 1639". A 2 is visible, the next digit is off the frame and only its descender shows; read 2 "17" is not supported. Compare p787 (29 luglio 1639) and p796 (26 July 1639).
+	p783	Word after "d'alcune": "prove[?] eccles[iasti]che", opening letters doubled or blurred; both reads uncertain.
+	p784	Visitor: ink reads "Bassius ... tertię Regionis", which agrees with the X 5 image; see the p352 line.
+	p784	Heading "Pro Cultu[?] SS.mi Sac.ti": ink looks like Caltre, Cultu fits the fair copy "De cultu" (X 5 p344); read 1 "Altare".
+	p784	Smeared word "Ca[...]lis[?] in ingressu Capellę maioris"; X 5 p346 has "cancelli" at this point, reader 2 "Crata". Possibly Cancellis.
+	p784	Added "laqueata contignatione[?]": both reads "concameratio"; ink ends -natione, and p786 has the same phrase. "ris ornet[ur][?]" in the marginal note is my reading; reads gave "sanct.[orum]" or a gap.
+	p785	S. Stefano: reader 1 "tenetur" (3 times) is wrong, ink is p[er]seueret, as in X 5 p347-348. "quas[?] celeb[ratio]nes" is my reading; reads "cum celeb.ne", "quod celeb.tur".
+	p785	First word of the line after "duodecim c[...]": "puntata", probably the end of com-putata split at the cut edge (X 5 p348 "computata missa cantata").
+	p786	Line "cętera sep[ulcra] dup[lici][?] I[ntegumento][?] oper[iantur][?]": abbreviations only; expansion rests on X 5 p351 "Cętera sepulcra duplici integumento operiantur". Reads: "intra cap." / "caetera cap. dupp. et ord".
+	p787	Surname: ink "Lomazzi", both reads "Lomazzo". "de Pizzionatti[?]": no descenders after -a-, so read 2 "Pizzionazzi" fails; n/t unclear.
+	p787	Signature: "Preu[os]to", read 1 "Rett.[or]e". After "con scandalo" a further word is cut by the frame; neither read has it.
+	p788	YEAR: third digit ambiguous, written 1656[?]. Two detached strokes, open at the top: a 5 or an open 4. Not the closed 9 of the day on this page, so the day stays 29. Both reads 1656. See the p789 line.
+	p788	After "Sig[no]ri": "ff.[?] M. R.[?]"; reads "qq. P.ri", "ff. m.r". The looped strokes do not match this hand's q on the same page. If quondam, Serafino is dead here too; Villa's "il q. Sig.r Preuosto Biumio ... et Serafino" says so anyway.
+	p789	YEAR, UNRESOLVED: both hands (29 Aug, 2 Sept) write a 3-shaped digit, so the ink says 1636, but the text calls Serafino "n. q." and "olim Prep." and he signs as Prevosto in July 1639 (p783, p787, p797). 1656 on p788 also fails: Mazuchello is Prevosto in 1656 (X 42 p846-p851, p873-p874), so Biumio and Serafino cannot be "immedia[ti] Antecessori del Moderno", and Claro and Soldano stand between. Best fit is 1646, under Prevosto Claro, after the printed 1645 allegations on this dispute (X 24 p714-p720, p766-p779). The open digit on p788 could be a 4; the p789 digits do not look like one. Judge against the original. Caveat: X 24 p770 (1645) has Claro's "antecessores immediatos" then living in the City, which sits badly with Biumio and Serafino as immediate antecessors, so 1646 is an inference and no more.
+	p789	Signature: ink is clearly "Ambrosius Inzagus"; read 1 "Christoforus" is wrong. Title before it is a loop, expanded P[res]b[ite]r[?].
+	p790	Place: "Caciuio[?]". Ink is Caci + minims + a blot with an i-dot above it, so neither read fits ("Cirimido", "Cairate"). Caccivio lies in this pieve, but that is my own identification: no parallel in the corpus or the glossary.
+	p790	Struck after "aff[er]mo": ut[?] retro[?]; read 1 keeps "ut retro" as live text, read 2 "et atesto".
+	p791	Lines 4-5 unresolved: "Conta[?] nota[?] dell[...] / Inconten:[?]". Reads "Conta noua dell' / "Contra novodetti"; "Inconten.ti" / "Inconten:". The tall looped letter recurs in Gerentano and Conta. Possibly a note of "incontinenti", unconfirmed. Year 1655 is firm.
+	p793	Line 3 unresolved: "cu[m][?] è[?] [...] populus nimis[?]"; reads "cu[m] è populus maiori", "ut e[t] populus nimio". Reason given for the populace opposing the door; absent from the X 5 fair copy (p349).
+	p793	Line 12 unresolved ("Conscribatur[?] tabella ... notabili[?]"), and the word after "ut" on the last line: ink is about 7 letters ending in -es, neither read 1 "uigent" nor read 2 "supra".
+	p795	Surname: "Bello", tall ll, not lb; read 1 "Balba", read 2 "Balbo".
+	p795	Signature "P. Fran[ces]co Mondano[?] [...] / Preuosto di Gerenzano": faded ink; reads "Mondano", "Pirovano obl.to". CONFLICT: Steffano Mazuchello signs as Prevosto throughout 1656 (X 42 p846-p851, p873-p874), and no Prevosto Francesco is known then. The faded words after the surname may qualify the title (read 2 "obl.to", an oblate acting for the Prevosto); I could not read them.
+	p795	Hand check against X 42 p873: not Mazuchello's hand, and the first name is not Steff.o. The signer is still unexplained.
+	p796	Day: "die 28[?] Julij". Second digit has two closed loops, so 8; both reads 26.
+	p796	Year, line 6: 1630[?]; read 1 1630, read 2 1639. Round last digit at the leaf edge with a faint stroke beside it. The parallel entry below is a plain 1630, and p797 "iam annis nouem" from 1639 gives 1630, the plague year.
+	p796	Line 7 "quid quid ali[...]": both reads "quin quid", ink has the looped d twice. Last word cut at the leaf edge.
+	p796	Fagnani heirs: "DD. Aequites[?] Hyerosolimit[anos] Ambros[iu]m ... et Angelu[m][?]". Reads split on Aequitem/Aequites and Angelum/Anselmum. Ink ends -es, which with the plural DD. makes both Ambrogio and Angelo knights. The text says "omnes tres fagnanos" and then lists four names.
+	p797	Place: "Todelli[?]"; read 1 "Todelli", read 2 "Rouelli". Third letter has a looped ascender, a d rather than a u; first letter unclear. Where the Cribellus lands lay.
+	p797	"iam an[n]is noue[m] l. c.[?] elapsis": meaning of "l. c." unclear. Insertion "extra cost[...]" cut by the frame; both reads "extra [...]".
+	p798	Same canon "Decius Longus" (line 11) and "Decij Longoni" (lines 17, 20-21): ink is clear in both, so the two forms stand.
+	p798	Undated. Canon Jo: Maria Lampugnanus is already a canon in 1583 (X 20 p138, X 44 p308), which points to the late 16th century; the volume title is 1639-58.
+	p799	Heading "S[an]to Jag[om]o[?] di girenzano[?]": reads Jag[om]o / Jac[om]o and giranzano / girenzano. Vowel after r not decidable. Identity is not in doubt.
+	p799	Line 5 "paglio nero": read 2 "rosso" is wrong, no long s. "purificatori": both reads "purighiatori", but the looped f matches this hand's "fazolethi" and p800 has it plainly. "candilaro[?]": both reads "candilari", ink ends in the -ro ligature of "coloro".
+	p800	Heading: "in cura[?] S[an]te marie nat[...]", last word cut. Which church is not stated; both reads stopped at "marie". Possibly nat[iuitatis], unverified.
+	p800	"coloro de oro": both reads "color"; "di bianco" and "di lotone": both reads "de". Ink has the same -ro ligature and the same di as p799.
+	p801	DATE CONFLICT with p797 for the same legacy and notary: p801 "die 7. Aprilis 1591[?]", p797 "die Veneris 17. mensis Aprilis 1592". 17 April 1592 was a Friday (Gregorian), so p797 holds; 7 April 1591 was a Sunday. On p801 the ink has no 1 before the 7, and the last digit of the year could be 1 or 7. Both reads 1591.
+	p801	Surname "de Cribellis": ink has r before i, as "Cribellum" on p796; read 1 "Gibellis", read 2 "Cribellis". Glossary keeps Gibelli distinct, so check it.
+
+x-4-1574 (capture 4, 2026-10-31; two gemini-4-argon reads, reconciled by Opus 5.5)
+	p804	Notary name: pioltinu[m][?], ink here also allows pistina[m] (long s/l), reader "pistinam". p813 and p814 and the modern pencil note give Pioltino. Please confirm.
+	p804	Pencil head note has a faded or erased date starting 21[?]; reader "26.06.1566". The act itself is 14.06.1564 and the marginal pencil agrees.
+	p804	Nun surnames all weak: de campinis[?], de scottis[?], de busse[?], de rauiglionibus[?], de monetis[?]. Reader had "de bussis" where the ink ends -e.
+	p805	Nun surnames: ragalijs[?], de pelizolis[?], de riuoltas[?] (reader "de riodero"; ink shows riuolta- with a suspended ending).
+	p805	Spelled gerentiani here and gerentiano on p808, not Gerenzano; kept as written.
+	p806	Key spot: "domus[?] caritatis" in a line heavily overlaid by bleed-through. Reader "Scolas caritatis". Initial is b/d-shaped, then -omus/-omas. Decides which institution the deputies belong to. Also her[edum][?]: if right, the Domus are heirs of Pietro della cruce.
+	p806	Surname after Marcantonio: castelletto[?], the word is blotted by bleed-through. Reader "de cribellis" (dominant-name trap). p805 line 19 reads castelletto clearly.
+	p806	Line beginning "[...] alijs[?] lib. ducentum": first word illegible under a blot. Matters for whether the legacy 200 is the same 200 as the quietanza: the sum 200+100+400=700 implies yes.
+	p806	Marriage clause: temporaliter, reader 1 "corporaliter". Ink starts with t; temporaliter uel spiritualiter is the sense (married in the world or as a nun).
+	p807	Month of the quietanza: Jun[ij][?], reader "Januarii". 10 June 1564 is a Saturday and 10 January 1564 a Monday, and the text says die sabati, so June fits. Ink alone is doubtful (Jan/Jun).
+	p807	Blotted word after "telle": hinc[?], reader 1 "lini", reader 2 "hinc". Shape matches the certain hinc of line 8. Read as "da qui ai 15 giorni". Please confirm, it decides whether the cloth is called linen.
+	p808	Area: q[ui]ndecem, 15 pertiche; reader "quatuordecim" 14. Ink is q+n+decen. Please confirm, it is the size of the field.
+	p808	Place: ad cabanam[?], reader "cabaniam". The first letter is a/c-shaped and the word ends in a z-like suspension.
+	p808	Fourth coherent: Jo. maria[?] de Galiuertis, reader "Do. marie". Initial reads J or D; if D the coherent is a woman.
+	p811	First line: cum sit[?] c[etera] et tunc, the opening word under a blot; reader "cum hoc in comune". Alternatives fit, ficto.
+	p812	Lines 2-4 of the redemption clause unresolved: et[?], si[?] placuerit, comunaliter[?] q[uo]m[od]o[?]; reader had "reglauierit", "exonaliter".
+	p812	Last clause: p[ossi]t[?] e[t][?] exten[di], reader 1 "p[eti]tu[m] et expen[sis]", reader 2 "p[ossi]t et expleri", earlier draft "fieri et exten[di]". Formula not assumed; ext- matches extendatur at top of p813.
+	p813	Lines 5-7 of the oath clause: Vicissim[?], Rel[igios]o[?] Sore[?], aatta[?]. Formula expected here, deliberately not filled.
+	p814	Day of the Vicar licence: 21[?] aprile 1567; reader 22. Modern pencil in margin reads 21.06[?].1567 and the second digit looks like a 6 though the text says aprilis.
+
+x-42-1620-57 (capture 4, 2026-10-31; two gemini-4-argon reads, reconciled by Opus 5.5)
+	p817	Parola: sotto[?] a proport[ion]e, ink corroso; reader "stesso". Si leggono s, tt e finale tonda.
+	p817	Riga 9: della[?] (reader 2) contro del (reader 1 e bozza). Dopo "del" ci sono altre aste e una a, quindi non un semplice del; ma la riga dopo ha battis[te]rio, maschile. Bleed-through vicino.
+	p818	Fine riga in legatura: sproue[...]; reader "sprovista[?]" non sostenuto dalle lettere visibili. Ultima parola dopo "fondi" illeggibile al solco, tre o quattro lettere tagliate.
+	p818	Riga 5, inizio: Così[?] (reader 1) contro It[em] (reader 2). Capitale alta seguita da un tratto ad occhiello lungo; nessuna delle due letture è sicura.
+	p819	Riga 12: parola mangiata dalla corrosione dopo "con det-", resta solo esponente "ne"; reader "[...]to". Forse dettrat[io]ne, da verificare.
+	p820	Riga 13: reader "Sig.r Fran.co Brianio"; l'inchiostro ha Preu con esponente to, stessa forma della riga 1 e di riga 15, dunque il q. Sig.r Preu[os]to. Cognome Brianio[?]: gambe ambigue, possibile Briamio o Biamio. Prevosto precedente, nome da verificare.
+	p820	Riga 13: cognome ora Biumio (reader Brianio/Biumio; bozza Brianio[?]). Lettere B-i-u/a-m-i-o; p788 ha "il q. Sigr Preuosto Biumio", p721-p735 Antonio Maria Biumi provvisto della Prepositura. Sopra "il" una parola interlineare non letta dai reader: Can (Canonico?), riportata in nota.
+	p820	Riga 3: la bozza "Bolla innocentiana" sostituita con fulminar censure[?]: reader 2 "fulminar censura". Inizio f e "fulminar" chiari, fine dell ultima parola incerta (e/a).
+	p822	Riga 5: reader "Scola[?]"; inchiostro della Prep[ositura]le, stessa abbreviazione delle pagine prima. Riga 7: reader "med[esim]i"; inchiostro lor stessi. Riga 6: Passio[?] gambe ambigue.
+	p823	Anno interlineare 20 Augusti 1635[?]: reader 1638. Ultima cifra attraversata dall'asta della d di desideratur, resta un trattino superiore da 5. Il calcolo interno (1631 + 1632 fino all'11 dic. + 12 mar. 1633 a ago. 1635 = circa 4,5 anni, come dice il testo) regge 1635, non 1638.
+	p823	Riga 1: "P." e non "D.": stessa lettera del P. della firma; la D di Dauid ha altra forma. Anno resta 1635[?].
+	p825	Riga atto 7 feb.: natta adi sei[?], fine riga corrotta dopo se. Cognome Piuzo[?] (reader Piazzo), forse stessa famiglia di p829 Piuzo[?] e p830 Piezo[?].
+	p825	Madre di Anna Maria, atto 7 gennaio: Madalena[?], reader Madalena e Magdalena. Parola impastata, forse ripassata, con un segno sopra la a.
+	p826	Maiocho[?]: reader Macocho e Maiocho; a forte ingrandimento sembrano esserci anche i-c prima di ocho, quindi anche Maicocho.
+	p826	Bilino[?], padre di Angela Maria: entrambi i reader Bilino, la bozza aveva Bilono. Altrove la famiglia è Bilone (p830, p832, p834). Lettera dopo Bil poco leggibile.
+	p827	Fina[?]: reader Fina e Pina. La capitale ha la forma della F di Fran.co alla riga 10, non il P di questa mano.
+	p827	Maschazino[?], padre di Gioseffo: reader Mascazino e Maridagino. C'è una lettera alta ad occhiello prima di azino, come la h di Francho in questa mano; forma non attestata altrove.
+	p829	Nascita di Jeronimo Rimoldo: inchiostro il di 2 poi nulla prima del margine; reader 27 non visibile. Battesimo il 30 settembre: 27 sarebbe plausibile, ma il 7 non si vede. Tenuto 2[?].
+	p829	Nascita di Jeronimo Rimoldo, battezzato il 30 settembre: segno a forma di 2 a fine riga, poi "d.o" a capo. Tre letture aperte: giorno con seconda cifra persa nella piega (reader 1: 27[?]); 2 da solo, improbabile per la distanza dal battesimo; riempitivo di fine riga come p827 "natto=" (allora "il di detto", come nell atto del 25 sulla stessa pagina). Tenuto 2[?].
+	p831	Belolo[?], padre di Gio: Maria: reader Beloso e Belolo. Lettera alta prima della o finale, trasparenza sopra; l o s lunga. A p840 esiste Bellone.
+	p832	Nascita di Catt[arin]a Morona: inchiostro li 7., reader 8. Cifra piccola ma aperta in alto, senza gli anelli dell'8 usato a p831.
+	p832	Nascita di Catt[arin]a Morona: tenuto 7[?]. La cifra non è 8, ma ha tratto superiore piatto e piede: 7 o 2. Il 2 sarebbe sette giorni prima del battesimo del 9.
+	p833	Zono, due volte per il padre e due per il compare: entrambi i reader danno Bono. Capitale senza asta ne occhiello chiuso, stessa forma della Z di Zaffarono a p836 e diversa dalla B di Borro a p840. p827 ha Gio: Zono in tutti e due i reader. Da verificare.
+	p834	Grigiolli[?]: entrambi i reader Grigiotti. Le due aste alte non hanno traversa, quindi ll e non tt.
+	p834	Tencono[?], anche p836: reader Serono, Tencono, Tencino. Stessa famiglia di Paulo Tencone a p828, che è leggibile. La vocale dopo c qui è una o stretta.
+	p835	Giucato[?], tre volte con p837: reader Giunato, Giuato, Zuccato, Turcato. La stessa forma ricorre a p835 (due volte) e p837; lettera iniziale G come in Gio.
+	p840	Nascita di Paulo Pedrotto: reader "il g.o sud.o"; inchiostro il p°, stessa forma di p825 riga 2, quindi 1° febbraio. Riferimento per la lettura di date simili.
+	p841	Cognome Landino[?]: reader concordi su Landino, l'asta tra d e n non chiude a occhiello; stessa coppia di Landono/Landone (Antonio e Margarita, p829, p857).
+	p841	Compare del 7 marzo: Jacomo Co[...], cognome finisce in legatura con lettere soprascritte; reader "Zo[...]" e "Corno". Forse Cogliato, come Jacomo Coglio[?] padrino a p861 per lo stesso nucleo Monza.
+	p841	Bambino del 7 marzo: Carlo Gio: Monza. Reader 1 "Moiaza", reader 2 "Maria". Stessi genitori a p861 (Gio: Monza, figlio di Gio: Jacomo e Madalenna).
+	p842	Angelo Mello[?]: reader "Metto" e "Motto". Inchiostro a due aste alte, Mello gia noto a p847 e p854.
+	p842	Compare Paulino Zaffarono: reader 2 "Faustino". Iniziale P come Paulo alla riga 12, ma corpo centrale ambiguo.
+	p842	Compare Gio: Piet[r]o Mus[...][?]: entra in legatura; reader "Lusig[...]", "Muso".
+	p842	Soprannome il balami[?]: reader concordi, ma possibile balanci. Da rileggere.
+	p843	Fran[ces]ca Caffaroni[?]: iniziale ambigua, possibile Zaffaroni. Hieronimo Pompiero: Pompiero nell'inchiostro, reader 2 "Pompeo"; cognome o secondo nome da decidere.
+	p843	And[re]a Tencha[?]: con due punti dopo il nome; reader 2 "Tennai". Forse abbreviazione di Tencono/Tencino.
+	p843	Compare del 12 settembre: Claud[i]o[?] Pirozo[?]. Reader 2 "Il sud.o Terzo", ma la riga dopo inizia con P e non e Terzo. Possibile "Il sud.o", resta dubbio.
+	p844	Data di nascita riga 2: 14, reader concordi su 24 ma il battesimo e del 15 settembre; prima cifra uguale all'1 di p843. Riga 9 (reader 27 e 14): stessa cifra, 14, battesimo 16 ottobre.
+	p844	Visto del 4 nov. 1655: de Domis[?], reader "de Jemis", "de Zenis"; stessa lettura di p915 e p959 (Prevosto e Vicario foraneo di Appiano).
+	p844	Compare Paulo Tencino[?]: reader "Teriano"; stesso padrino dei figli Bonino a p850 e p861 (Tencono).
+	p844	Compare Fran[ces]co Belone[?]: fine parola in legatura; reader 2 "Bellono"; vedi Bilone a p853.
+	p845	Compare Carlo Piuzo[?]: reader "Piozo", "Liozo". Stessa famiglia forse di p829 Piuzo[?], p830 Piezo[?], p843 Pirozo[?].
+	p845	Compare Pietro Sarugino[?]: reader "Carugino", "Larugiono"; iniziale come la S di Steff, non la C di Carlo. Confronta p858 Saraguero[?].
+	p845	Padre Tomaso Possente: reader "Bossente", "Dossente"; coppia Tomaso e Lucia torna a p858.
+	p845	Atto 28 novembre: compare solo "Zaffarono", nome non scritto.
+	p846	Atto 31 dic. 1655: Comp[adr]e Ant[oni]o[?] Gali[...]. Reader "Amb.o Galim[...]", ma senza asta di b; cognome in legatura (Galiuerto o Galimberto).
+	p846	Giouan[n]a Bonzina[?]: iniziale ripassata con macchia, reader "Bonzina", "Ponzina". Confronta p852 Bonzino[?].
+	p846	Piuza/Piuzo (2 feb. e 16 feb. 1656): reader "Paza", "Paga", "Pazo", "Pugo"; puntino della i visibile, stessa forma di p825/p829/p845.
+	p846	Compare Paulo Vanzul[...] (22 gennaio): reader 1 "Mazuc[...]", reader 2 lacuna; inchiostro V-a-n-z-u-l fino al solco.
+	p847	Compare del 26 marzo: Paulo[?] Bilono[?], parola fitta con «no» sopra la riga. Reader 1 "Anselmo", reader 2 "Carlo Bono". Lettura debole, da rivedere.
+	p847	Compare del 23 marzo: Ber[nar]do Piuzo; reader "Tirzo", "Pizzo".
+	p847	Nome della madre Bernarda (6 marzo): esponente a dopo d, reader 1 "Bernard[in]a". Bernarda o Bernardina.
+	p848	Compare Ambrosio Criero[?] di Turate: iniziale sbiadita; reader "Ciuero", "Criero". Dopo la r un tratto che puo essere i+e o u.
+	p848	Visto 12 maggio 1656: Visitator g[?]., lettera finale con lunga discendente; reader "g.", "&c."; forse g[eneralis].
+	p848	Marta Maria Tenesina[?]: reader "Tencona", "Tenesina". Padre Paulo: stesso uomo di p844 Tencino[?], p850, p858 Tenesino[?], p861 Tencono? Forma del cognome da fissare.
+	p848	Lonetto[?] contro Lovetto: n/u indistinguibili in questa mano; p840 Lonetto[?], p851 lettura Lovetto dei reader, p858 de Lovetti[?].
+	p850	Compare del 26 ottobre: Fran[ces]co Landin[...], taglio in legatura; riga 2 della stessa pagina ha Landone, reader "Landone[?]".
+	p850	Compare Paulo Tencino[?]: tra c e n un tratto senza punto, reader "Tencono", "Tencino".
+	p851	Riga del 10 nov.: l'ultima parola e Preuosto; entrambi i reader danno "Curato". Dopo "de licentia" un segno a coda discendente: p[?]; reader "di", "P.". Stessa formula a p859. Se "Il Comp. Il M. R. Sig.r Matteo Guzzetti" e il padrino, chi firma e Mazuchello.
+	p851	Cecilia Bilona: inchiostro fi[gli]a con esponente a; reader 1 "fig.o".
+	p851	Genitore di Angela Maria Gelata: March' Ant[oni]o; reader 2 "Maur.o Ant.o". Madre Sosan[n]a; reader 2 "Suxa[n]na".
+	p852	Nascita di Dominico Vanzulo: il di 9. d[ett]o, cifra 9 a coda lunga come p849 e p851; reader "s[u]d[ett]o" e "q.". Battesimo 10 febbraio 1657.
+	p852	Catt[arin]a Elisabetta Galiuerta: reader concordi su "Galinetta"; inchiostro come Galiuerta di p851.
+	p852	Padre di Lugretia Vanzula: inchiostro Maria, nome maschile anomalo; forse Mario o Gio: Maria troncato.
+	p852	Compare del 15 gennaio: Amb[rosi]o Lonet[...], il cognome entra in legatura; reader 1 "Lom[...]", reader 2 lacuna.
+	p853	Mesi delle date 1 e 2: marzo; reader 1 "magio" per due volte, reader 2 "marzo". Una sola discendente, mentre maggio a p848 ne ha due; la sequenza va dal 27 febbraio al 16 marzo (p854).
+	p853	Vanzulo letto da entrambi i reader come Cargulo/Canzulo (Gio: Batt[ist]a detto il Mattarino e il compare del 27 febbraio). Inchiostro V ad occhiello come altrove; stesso soprannome Mattarino di p852.
+	p853	Fran[ces]co Clerice: reader "Cerciè", "Ceruie". C con asta di l, come Clerice di p849 e p830. Stessa correzione a p850 (Joseffo Clerice; reader "Cerie[?]").
+	p853	Ant[oni]o Maria Tencono[?], figlio di Jacomo: stessa famiglia di Angela Maria a p842. Il corpo centrale si legge anche Tencino o Tenesino; le forme Tencino/Tencono/Tenesina di p844, p848, p850, p852, p858 restano da unificare.
+	p853	Jacomo Ant[oni]o Berti: reader 1 "Berli". Asta bassa tagliata, t.
+	p854	Zono contro Bono: entrambi i reader danno Bono (Fran[ces]co, Batt[ist]a, Gio:), e p853 e p842 uguali. Capitale identica allo Z di Zaffarono della stessa pagina; il B di Batt[ist]a accanto ha asta e occhielli chiusi. Zono, come p827, p833, p841. Coppia Gio: Zono e Catt[arin]a a p833, p841, p854.
+	p854	Atto Angela Maria Francha: inchiostro natto il 31: marzo per una femmina; reader 1 "natta", reader 2 "natto". Lapsus dello scriba, tradotto nata.
+	p854	Compare Carlo Giucca[...]: fine parola in legatura; reader "Guina[...]", "Guie[...]". Famiglia Giuccato di p845 e p848.
+	p855	Nascita di Anna Maria Picoza: il 9[?]. sud[ett]o, battesimo 20 aprile. Reader 1 "9", reader 2 "il g[iorno] sud[ett]o". Coda lunga e diritta come il 9 di p852, ma undici giorni di attesa sarebbero un caso unico in queste pagine: "il g[iorn]o sud[ett]o" resta possibile.
+	p855	Picoza: reader "Licoza", "Sicoza". Capitale P come Pietro sulla stessa riga. Coppia Pietro e Lucia gia a p846.
+	p855	Comare Marg[arit]a Landona: reader 1 "Carcana", reader 2 "Landona"; L a occhiello basso; stessa comare a p831.
+	p855	Matt[e]o Vanzulo d[ett]o il Co[...]: fine riga. Forse il Cotto (Teresia, figlia di Matteo, p848); reader 2 "Coo".
+	p855	Nascita di Lucia Vanzula: 18, reader 2 "16"; battesimo 19 maggio.
+	p855	Anna Marg[arit]a Zina[?]: reader "Cina". Capitale con piega a meta e piede basso a sinistra, come lo Z di Zono a p854; non e la C di Carlo o Caimo.
+	p855	Fran[ces]co Possente: reader "Posseato". n e te legate; Francesco Possente gia a p846 e p854.
+	p855	Picoza (p855), Pigozo (p856), Pirozo[?] (p843), Piuza[?]/Piuzo[?] (p846, p847): forse una sola famiglia. p846 e p855 hanno la stessa coppia Pietro e Lucia con grafie diverse.
+	p856	Nascita di Angela Morona: 28[?], battesimo 30 giugno. Entrambi i reader "29", ma la seconda cifra non ha la coda lunga del 9 (p852, p855) e somiglia all'8 di p855. Leggere 28 o 29.
+	p856	Compare del 4 agosto: Fran[ces]co Lan[...]; reader "Caimo", "Ca[...]". Capitale con coda bassa di L, come Landona a p855.
+	p856	Nascita di Francesco Tencono: il di d[ett]o; reader 2 "il di 3.". Nessuna cifra in inchiostro.
+	p856	Marta Vantula[?]: reader "Pantula". V come Vanzulo, ma dopo la n una lettera alta ad occhiello senza la discendente della z. Coppia Paulo Vanzulo e Susana a p836: probabile Vanzula, inchiostro non conferma.
+	p857	Nascita di Maijno Vanzulo: si vede solo 2, la seconda cifra e nel solco; reader 1 "il di", reader 2 "il 26[?]". Battesimo 27 agosto, quindi 2[...] resta aperto.
+	p857	Borgino[?] (p857), Bonzina[?] (p846), Bonzino[?] (p852): stessa coppia Carlo e Catt[arin]a a p846 e p857. Segno con lunga discendente dopo la n/r: g o z. Reader "Borgino", "Bonzina", "Ponzina", "Donzino".
+	p857	Gio: Filippini: cognome o secondo nome? Reader concordi; figlio di Carlo e Marta, nessun altro cognome nell'atto.
+	p858	Fran[ces]ca Bilona: entrambi i reader "Balena"; punto della i visibile, genitori Fran[ces]co e Giulia come Bilono a p845.
+	p858	Compare Carlo Clerice[?]: reader concordi "Cerina[?]"; C con asta di l, finale incerta (-ice o -ica) vicino al solco.
+	p858	Atto 23 novembre: inchiostro essendo p[er] Comp[adr]e, entrambi i reader "il Comp."; stessa formula sulla riga del 26 novembre.
+	p858	Nascita di Carlo Ant[oni]o Francho: di s[...] tagliato dal solco; reader "s.o", "d.o".
+	p858	Compare Pietro Saraguero[?]: forse lo stesso Pietro Sarugino[?] di p845, compare di un altro figlio di Tomaso Possente e Lucia. Le due grafie restano separate.
+	p858	Melchion Mantegazza: mano di Mazuchello, le due z alzate sembrano bb. Letto Mantegazza per il confronto con p859, dove la stessa famiglia e scritta con z discendenti.
+	p858	Valeria Marazza[?]: reader "Marazza", "Morazza"; seconda lettera a od o.
+	p859	Lucia Vanzula: reader "Carzula", "Canzula". V come nelle altre pagine; stesso errore dei reader a p842 e p853.
+	p859	Compare del 2 febbraio 1658: Gio: Zon[...], reader concordi "Gio: Fran[...]". Capitale tonda con piede basso, come Zono due righe sopra, non la F piatta di Francho.
+	p859	Madre di Liberata Zaffarona: Vittoria[?], parola coperta da trasparenza; stessa coppia a p847 con Vittoria leggibile.
+	p859	de Licentia p[?]: come a p851, dopo licentia segue p con coda; forse p[arochi]. Il compare e un sacerdote, Gio: Cassina.
+	p860	Madre di Antonia Madalena Vanzula: Angela[?]. Reader 1 "Anesia[?]", reader 2 lacuna. Riga sbiadita, si leggono A, n, una discendente debole e un occhiello alto. Steffano Vanzulo e Angela sono coppia a p841 e p849.
+	p860	Padre di Cattarina Cattanea: inchiostro Maria, come p852; reader 2 "Marco". Nome anomalo per un padre, da verificare.
+	p860	Compare del 18 febbraio: Jacomo Fran[...][?]. Reader "Lard[...]", "Land[...]". Tratto orizzontale in alto come la F di Francho, asta alta prima del solco forse h.
+	p860	Compare del 3 marzo: Carlo Don[...]. Reader 1 "Gio: Donato", reader 2 "Carlo [...]". Riga sbiadita, forse Donolo (p825).
+	p860	Compare del 14 febbraio: Pietro Picoz[...]; reader 2 "Pizzo". Compare del 17 febbraio: Matt[e]o Pizo[?]; reader 1 "Pietro", reader 2 "Matt:o Pizzo". Possibile legame con Piuzo[?]/Picoza.
+	p860	Gio: Giosefo Galiuerto: nessuna riga di data. Dal contesto 5 febbraio 1658 o poco dopo; reader "Galimberto", inchiostro Galiuerto come p851 e p852.
+	p860	Atto del 3 febbraio: Bilono scritto due volte con finale o; altrove Bilone (p848, p853).
+	p860	Compare di Gio: Giosefo Galiuerto: Steff[an]o Va[...]: solo V e a prima del solco; probabile Vanzulo (p847).
+	p861	Data: Mille sei Cinquant' otto, manca cento. Tradotto 1658 per la sequenza con p860.
+	p861	Eudosia Piroza[?]: reader "Pirozza[?]". Una sola z con discendente. Stessi genitori Gio: e Elisabetta di Dominico Piuzo[?] a p846. Da unificare con Picoza, Pirozo, Piuzo.
+	p861	Compare Jacomo Coglio[?]: fine parola sul margine, asta alta forse t. Forse Cogliato (p856). Stessa coppia Monza di p841, dove il compare e Jacomo Co[...].
+	p861	Compare Paulo Tencino[?]: reader "Tencono". Lettera tra c e n a forma di w, senza punto; a p858 reader concordi "Tenesino[?]". Stessa persona con forme diverse.
+	p862	Gurretti[?] contro Guzzetti: reader 1 Gurretti, reader 2 Guzzetti; p851 reader concordi Guzzetti. rr e zz simili in questa mano. La nota riguarda forse lo stesso P. Matteo, sottolineato a pastello rosso a p851.
+	p862	Riga 2: vede[?] Cartella[?]. Reader 1 "rett[or]e Curato", ma la seconda parola chiude con due aste di ll. Reader 2 "vede Cartella". Forse "vedi Cartella", rimando archivistico.
+	p862	Riga 3: morto nel 1704 / nel 1649[?] marzo[?]. Anno con cifre ripassate: 1649 o 1644 o 1654. Riga 1: terza cifra di 1624 ripassata.
+	p863	Data: «alli tre di Febraro» 1653 chiara, ma le pubblicazioni sono 2, 7 e 9 febbraio, quindi dopo le nozze. Svista dello scriba o data diversa, da verificare. Trascritto come scritto.
+	p864	Cognome Belono[?] (Bernarda, fig. del q. Gio: Pietro): reader Beloso, Belono. Stesso gruppo di Belolo[?] di p831 (b1)? Accanto nella stessa pagina Bilono ben leggibile.
+	p865	Nome testimone: Paulo Coriate[?]; reader 1 "Ciriate", reader 2 "Coriate". Seconda lettera coperta dalla C.
+	p865	Nome testimone: Carlo Giano[?]; punto della i vicino alla fine, forse Giaio. Reader entrambi "Giano".
+	p867	Testimone Batt[ist]a Cobia[...] d[ett]o il Simonino: nome tagliato in piega; reader 1 "Cobia[...]", reader 2 "Coliat[o]". Si vede Cobia o Coria. Cfr. Batt[ist]a Cobianco a p836.
+	p867	Sposa Mar[...] Lobata[?]: seconda lettera a oppure o, asta alta b oppure l; possibile Lalata. Nome di battesimo tagliato a fine riga.
+	p867	Padre della sposa Giouan[n]a Guzzetto: nome illeggibile, intralciato dalle aste della riga sopra, finisce forse in -ia: ; reader 1 "Bernar.do" non sostenuto.
+	p868	Testimone D.[?] Joseffo Franzo[?]: titolo D. con piede chiuso, reader 1 "P."; cognome Franzo qui, ma lo stesso prete è Francho a p867. Finale coperto dalle aste della riga sopra.
+	p868	Cognome Clerice (p867 And[re]a, p868 Margarita, p869 Elisabetta e Carlo, tutti figli del q. Christofforo tranne And[re]a): reader "Cerie", "Cervie", "Cerine". L'inchiostro ha C grande più l ad anello alto, poi erice, stessa forma di And[re]a Clerice a p872 e di Clerice in b1 (p825, p830). Il tratto ad anello è la l, sfuggita ai reader. Da confermare sul finale, dove ri e c sono serrati.
+	p870	Padre della sposa q[uonda]m Jacomo Francho[?]: reader entrambi "Granelo". Iniziale è la F di Mazuchello senza piede di G, poi -ranc- e asta alta come in Francha di p867 e p874. Possibile anche Franelo.
+	p871	Testimone And[re]a Gela[...]: reader "Ant.o Galim.to", "Amb.o Galim.to". L'inchiostro ha And con a in esponente e poi Gela, tagliato al bordo. Probabile Gelato, non scritto.
+	p871	Sposa Clara de Galli[?]: reader "de Galli", "de Sali"; G con punto sulla testa, poi a, asta alta forse doppia, una gamba bassa. Possibile Gali.
+	p871	Testimone Jacomo Francho[?]: reader entrambi "Prando". f minuscola con taglio, poi ran, poi ch ad anello alto come nel Francho di p877. Stesso dubbio per Galeazo Fran[...] in ultima riga, tagliato al bordo; reader "Prand[o]".
+	p871	Testimone Sig[no]r Sebastiano Giuccate[?]: reader "Giuleate", "Giulate". Nessuna asta alta tra Giu e la t, quindi non l; due lettere basse, compatibili con cc come Giuccato[?] di p872.
+	p872	Testimone Carlo Giuccato[?]: reader "Giuuato"; i tratti centrali danno cc, cfr. Giucca[?] a p863 e Giuccata[?] a p883.
+	p872	Testimone Jacomo Tencon[...]: il cognome è scritto sopra la riga a fine riga, con tratto di richiamo dalla J. Reader 1 pensava a una parola tagliata, reader 2 "Jacomo Ant.o Tencono". Nessun Ant.o nell'inchiostro.
+	p872	Sposo Giulio Poiano[?]: lettera dopo o incerta, c oppure i senza punto; il punto cade dopo la a. Possibile Pocaino o Pociano.
+	p872	Seconda pubblicazione del terzo atto alli 27[?]: il 7 finisce nella legatura. Il 27 maggio 1655 è giovedì, Corpus Domini, quindi plausibile.
+	p874	Fran[ces]ca Francha fi[gli]a d' Ant[...]: reader "francera" e "Granera"; l'inchiostro ha F, poi nc e asta ad anello di h, come Francha a p867. Nome del padre tagliato in legatura: reader 1 Ant, reader 2 Amb.
+	p874	Batt[ist]a Franch[...]: stessa famiglia, reader "francera", "Graner[a]"; finale in legatura.
+	p875	Sposo Batt[ist]a Zono[?]: reader "Tono", "Pono". Iniziale con anello alto tondo e piede basso a sinistra, la Z di Mazuchello descritta in b1 (p827, p833 Zono). Possibile P.
+	p875	Sposa Elisabetta Derlona[?]: reader entrambi "Verbona". Iniziale con arco chiuso come la D di Dominico, non la V sottile di Vanzula; poi erl-ona. Cfr. Francesco Derlino a p864.
+	p875	Nome Bernard.o (anche p869 Picozo, p874 Tencono): lettera o in esponente dopo d; Bernardo o Bernardino non decidibile. Lasciato abbreviato in trascrizione e traduzione.
+	p875	Data: «mille sei Cinquanta sei» senza «cento», chiara nell'inchiostro. Inteso come 1656 per la sequenza e per la pagina precedente.
+	p876	Sposa Margarita Borga[?]: seconda lettera e oppure o, reader "Berga" e "Borga". Padre del q[uondam] B[...]: nome contorto in piega, reader "Bart.o"; si vede solo un'iniziale.
+	p876	Testimone Gio: Zono: reader "Gio: Bono". Z di Mazuchello netta, stesso errore dei reader che b1 segnala a p833.
+	p877	Testimone Carlo Derlono[?]: reader "Corba", "Cerbono". Asta con arco sottile a destra, come la D di Derlona a p875, poi erl-ono. Possibile b al posto di l.
+	p877	Prima pubblicazione del terzo atto alli 7: reader 1 7[?], reader 2 3. La cifra ha testa piatta e nessun occhiello in basso. Il 7 febbraio 1658 è giovedì, il 3 domenica; ma anche p878 e p879 usano il 7 febbraio. Tenuto 7.
+	p877	Sposa Dominica Picoza[?]: reader "Piozza", "Piazza". Dopo Pi due lettere strette, poi z: co oppure u con gamba in più. Famiglia Picozo a p865, p869, p878. Forse anche i Piuzo[?] e Piezo[?] di b1 (p825, p829, p830) sono Picozo, da confrontare.
+	p878	Sposa Magna[?] Zaffarona: reader "Mayna". In questa mano g ha il discendente diritto della y: stessa forma in Magno p883, Magnetta p883, Maria Magna[?] p884. Il testo dopo Gerenz[an]o è perso in piega.
+	p878	Testimoni fratelli Zaroni[?]: reader "Zarooni", "Laroni". Forse Zaffaroni scritto corto; asta singola dopo a. Cfr. Carlo Zaffarone figlio del q. Gio: a p873.
+	p878	Mese Feuraro[?] (riga data) e feuraro[?] (riga 18): reader 1 "Febraro", reader 2 "Feraro". Tra e e r una u o una a bassa, nessuna asta di b. Stesso scriba scrive feb[rar]o altrove nella pagina.
+	p878	Sposo Dionisio Giuccate[?]: reader "Guiciale", "Guenzate". Nessuna asta di l o z nell'inchiostro; cfr. Sebastiano Giuccate[?] a p871 e Carlo Giuccato[?] a p872.
+	p878	Testimone Gio: Picozo: reader 1 "Ciozo". Va insieme a Gio: Picozo di p869; reader su p879 danno Pizzo e Piozo per la stessa famiglia.
+	p879	Officiante: reader "Iosef.o Mazuchello", "Ios[eph] Ant.o Mazzuchello". Inchiostro Steff.o a riga 6 e riga 21, con la S simile ad A di Mazuchello. Nessun Giuseppe Antonio in questa pagina.
+	p879	Pubblicazioni del terzo atto: reader alli 12, 13, 17. Inchiostro alli 2., alli 3, alli 7.: il tratto finale di alli è stato preso per un 1. Stesse date del terzo atto di p878.
+	p879	Prima famiglia: terza pubblicazione del primo atto senza giorno, dopo «alli» la riga finisce e la carta è vuota.
+	p879	Cognome Francho (Pietro, Jacomo): reader "Franzo". h ad anello alto come a p877. Se vale qui, rivedere Franzo[?] di p868.
+	p879	Cognome Picozo/Picoza (Gio:, Bernardo, Margarita): reader "Pizzo", "Piozo", "Pizza", "Pioza". Dopo Pi una c stretta, poi o, poi z con discendente.
+	p880	Testimone Ambrosio Giucale[?]: ultima sillaba con l ad asta alta, chiara qui. Confrontare la famiglia: Giucca[?] p863, Giuccato[?] p872, Giuccate[?] p871 e p878, Giuccata[?] p883, Giuca p826 e Giuccali[?] p830 in b1. Forse un solo cognome, Giucale/Giucalo, da verificare sulle pagine in cui l'asta non si vede.
+	p880	Pagina scarsa: reader 1 diceva full, reader 2 sparse. Un atto solo in alto; sotto solo trasparenza rovesciata, zoomata e senza testo né richiamo.
+	p881	Cronologia: rubrica 1653 chiara, con 17 settembre e 26 ottobre; poi senza nuovo anno 31 marzo, aprile, maggio, luglio, agosto, 17 settembre, 29 novembre, e su p882 16, 24, 26 dicembre, e solo dopo la rubrica 1654. La serie marzo-dicembre è quasi certamente del 1653: quindi i primi tre atti sono o fuori ordine o del 1652 con rubrica errata. In traduzione lasciata senza anno, da decidere.
+	p881	Lucia Cuesa[?]: reader entrambi "Cuesa", ma la lettera dopo la e ha occhiello e asta ricurva e si può leggere d: Cueda. Stessa forma in Francesa[?] p883-p884, tenuta s per coerenza.
+	p881	Marta. de Mulini[?]: reader 1 "Mulini", reader 2 "Prilini". Iniziale M pesante, poi u o i, poi l alta.
+	p881	Marta Derlona[?]: reader "Senona", "Sendona". Stessa iniziale ad anello chiuso di Derlona[?] p875 e Derlino p864; poi e, gambe, l alta, ona. Confrontare.
+	p881	Andreola d[ett]a la Briola[?]: reader "de la Briola", "d[e] la Priola". L'inchiostro ha d con a in esponente e punto, quindi soprannome. Iniziale ad anello semplice: B, P o V.
+	p881	Christofforo Fina[?]: reader "Fina". Stelo con tratto in alto verso destra, F o T; stessa famiglia di Fina[?] p827 in b1.
+	p882	Andrea Galiuerto[?]: reader "Giudicio", "Giobbio". Inchiostro consumato: G, poi lettera bassa, asta alta inclinata a destra come l o b (la d di questa mano si incurva a sinistra), parte centrale illeggibile, finale con asta breve e o. Scelto per la forma, non deciso. Età 48.
+	p882	Catt[arin]a Cogliata: reader entrambi "con li SS. Sacr[...]". L'inchiostro dice «morta di parto confessata», nessun Sacramento. Da tenere per il dato: morta di parto con la sola confessione.
+	p882	Catt[arin]a Quarta[?]: reader "Quarta", "Quatra". Dopo Qua una lettera con asta breve, poi ta: possibile Quatta.
+	p882	Ambrosio Sibina[?]: lettera alta dopo Si, b oppure h; reader 2 data "vent'uno", inchiostro uent'otto. Sequenza con 24 novembre e 2 dicembre coerente con entrambe.
+	p882	Elisabetta Galiuerta: reader "Galimberta". Stessa forma di Dominica Galiuerta p881; nessuna b.
+	p882	Marta Bonzino e p879 Pietro Bonzino[?]: reader "Bonzino" qui, "Borzino" su p879, ma la parola ha la stessa forma nelle due pagine, due gambe prima della z. Tenuta una sola lettura.
+	p882	marzo: reader 2 "mazo" (righe 7, 20, 21 e p883 riga 16). La r è fusa tra a e z. Marzo è confermato dalla sequenza: 2 e 3 precedono 9 aprile e 4 maggio di p883, e lo scriba scrive sempre maggio con due g.
+	p883	Fran[ces]co Zono[?]: reader "Moro", "Tono". Iniziale con gancio in alto a destra e zigzag, stessa Z di Zaffarona sulla stessa pagina.
+	p883	Mese dell'ultimo atto 7bre: reader 1 "8bre", reader 2 "7bre". Cifra senza occhielli; lo stesso scriba su questa pagina scrive ottobre in lettere (ottob[r]e). Tenuto 7bre, 15 settembre 1656.
+	p883	Marta Francesa[?] (reader "Francola", "Franoda") e Catt[arin]a Francesa[?] (reader "Francesa", "Franisa"): stessa parola nelle due righe e in Elisabetta Francesa[?] e Angelo Franceso[?] di p884. Dopo Franc occhiello con asta ricurva, letto es; possibile Franceda.
+	p883	Margarita Pasquinina[?]: reader "Pasquinina", "Pasquinona". Otto gambe dopo q e un solo punto: o letto da nessuno.
+	p883	Cattarina Zaffarona: reader 2 inserisce "in c[irc]a con li". Inchiostro «settanta con tutti li SS.», nessuna a in esponente. Età 70 senza circa.
+	p883	Carlo Zaffarone: reader "Zaffarono"; e finale con coda. Morto all'improvviso il 9 marzo 1656: un Carlo Zaffarone sposa il 3 febbraio 1656 a p873, se è lo stesso muore 34 giorni dopo. Da verificare.
+	p883	Cecilia Vanzula, fine riga: «Pen[itenz]a», poi lettere e, t, e, punto, e un tratto alto al bordo. Forse et e[strem]a o[ntione], come p881, ma non scritto per intero. Reader "e [...]".
+	p883	Gio: Pietro Marchazino[?]: reader "Marchagino", "Marchesino". Asta di h, poi a e z con discendente. Cfr. Maschazino[?] p827 in b1.
+	p884	Gio: Pietro Possente: reader "Passere", "Passera". Inchiostro o, ss, e-n-t-e, stessa forma di Possente altrove.
+	p884	Bernard.o Scabello[?], età: reader entrambi "settanta cinque". L'inchiostro ha i tratti obliqui di ss, senza le traverse di tt: sessanta[?] cinque, 65. Confrontare con settanta riga 7 e sessanta riga 5.
+	p884	Scabello[?] e Angela Scabella[?]: reader "Scabello", "Isabello", "Scabella". Iniziale ad anello con piede, S o G; seconda lettera c o e bassa. Possibile Geabello o Grabello.
+	p884	Carlo Mello e Margarita Mella: reader "Stello/Mallo", "Stella/Mella". Iniziale doppia come M di Maria e Marta su questa pagina; cfr. Dominico Mello p872.
+	p884	Maria Magna[?]: reader "Magna", "Magra". Stessa forma di gn in Magno p883. Fuor dell'e[...] tagliato al bordo, si intende Eucaristia ma non scritto.
+	p884	Jacomo Bagatto[?]: reader "Bagatto", "Bazotto". Discendente con grande occhiello, più g che z; vocale seguente a oppure o.
+	p884	Angelo Vanzulo, 12 anni: «con li SS.ti fur dell'Eucharistia», reader 1 "for", reader 2 "fur". Dato di rilievo: dodicenne senza Eucaristia; riga 9 scrive invece fuor con quattro lettere.
+	p885	Ambrosio Zono[?]: reader entrambi "Bono". Occhiello alto aperto che scende a un piede basso a sinistra, nessun tratto che attraversa i bowl: è la Z di Mazuchello descritta in b1 (p827, p833). Forse B, da verificare a confronto con Bosso e Bossa di p884.
+	p885	Data: «Mille Sei Cinquant' otto» senza «cento», chiara nell'inchiostro, come p875. Reader "Milleseicinquant'otto".
+
+x-49-1747 (capture 4, 2026-10-31; two gemini-4-argon reads, reconciled by Opus 5.5)
+	p899	Notary Debrambus-/terlam: kept as one word as written; rare form. Reader same. Could be "de Brambusterla".
+	p899	Jacobinae Jonae: surname as read, initial J/Z not firm.
+	p899	Notary: "Petrum Pus-/terlam" replaces "Debrambus-/terlam" (draft and both readers). Same tall P and same "Petro" as p900; 06-49 p684 gives rog. Pietro Pusterla for this testament. Supersedes the earlier Debrambus- line.
+	p899	Possenti testament day: ink 9.a with a closed bowl; 06-49 p684 gives 1 febb. 1707. Copyist or 19th-c. slip, the ink here is 9.
+	p899	Testatrix: Zonae[?] (initial J/Z), 06-49 p684 quotes the 1687 visit "Jacobina Zona" and calls it Legato Zoni. Readers "Jonae". Field: ink il Malnino, 06-49 p684 "il Malusino"; no long s visible here, kept as ink.
+	p900	Year of the Oleario instrument: ink 1711 (y-shaped 7, no looped 6), impossible for de Franchis whose will is 1648; x-50 p948 reads 1611 for the same act. Scribal slip in the 1747 fair copy, or p948 wrong. Transcribed as written.
+	p900	De Franchis will year: 1648, last digit double-looped 8; reader "1646".
+	p900	Oleario: ink "Bartholomaeum Olearium", reader "Bartholomaeum Mariam". Parochum Rodelli: ink has d, x-50 p948 has Rovelli[?]; place likely Rovello.
+	p900	Matthaeo Groppe-/to: o or u in the first syllable, "Gruppeto" possible.
+	p900	"ab n.[?] q." before R. Presbytero: "ab" is overwritten and a stray n./r. follows, same oddity as p903 "a n.[?] q.". Reader dropped it.
+	p900	Cattaneo testament: 2 Aug 1699 here vs 6 Aug on p904, same notary Vicomercato. Check the year on p904 and whether these are one act.
+	p900	DAY-DIGIT RULE for this hand: a plain short slash is 1 (controls: 13 Jun p900, 15 Jun p903, 17 Dec p902, confirmed by other volumes; also 14 Jan p906, both readers 14); an arched, tailed form is 2 (control: 2 Aug p900; 22/23/24 May fit Pentecost 1747). Both readers took the arched form for 1 almost every time. Please spot-check the rule on p900, p908, p911.
+	p900	De Franchis will day: ink 28 Aug 1648 by the rule above (arched 2 + double-looped 8); both readers and the draft had 18. 06-49 p682 gives 25 Agosto 1648 (the same act, or a misread 8).
+	p900	Guzzetto bequest year: 1709[?], cramped, both readers 1709. 06-49 p683 gives testament 7 June 1697 with codicil 29 Apr 1704, same notary Pusterla. Day and month agree, so 1709 may be a slip for 1697 or the digits may be misread.
+	p900	Surname: Guzzet-/to replaces reader 1 "Groppeto" and the draft; read 2 had Guzze-. Supported by x-50 p952 (Matheo Guzzetto), 03-04 p635a and 06-49 (Legato Guzzetti). Supersedes the earlier Groppe-/to line.
+	p900	Cattaneo testament: ink 2 Aug 1699, settled (tall 6, two 9s); reader 1 "1599". 06-49 p647 gives 2 Agosto 1698 and p651/p904 give 6 Aug 1698. Likely a copyist slip for 1698, or two acts.
+	p901	Late provost: De Macris[?], readers Maceris and Maciis; p905 and p912 de Macris, 06-49 p681 Prev. Magri. Vigluvii kept as ink; 03-04 p635a gives Viggiù.
+	p902	Visconti instrument year: ink 1732 (y-shaped 7, B-shaped 3, arched 2); readers 1710 and 1712. Same act is 17 Xbre 1632 in 06-43 p459/p463 and 17 Dic. 1632 in 06-49 p648, so the 1747 copy has 7 for 6. Same slip as p900 1711 for 1611.
+	p902	Sum: 372 at the pixels, no leading digit; reader 2 "1372". Line-initial, nothing clipped. Compare the L. 1000 + 350 of the provostry on p906 only as a size check.
+	p902	"V. V. Parochorum": two looped V-forms, unlike the D. D. elsewhere on this page; readers "V. D." and "D. D.". Sense unclear, perhaps Venerabilium.
+	p902	Payment date: die 1.a Maii, long straight stem with superscript a (no arch, so not the 2 form); reader 2 "S.ti Maii", reader 1 "S.ti Marci". 06-49 p648 confirms il 1° Maggio.
+	p903	Year of the Lupo instrument: 1672 at the pixels (same y-shaped 7 and based 2 as "372" on p902); reader "1611". Digits cramped.
+	p903	Byname Darlone[?]: third letter r or u/v; underlined by the scribe. Reader "Darlone".
+	p903	"a n.[?] q." before Nob. Julio Caesare Cattaneo: a stray "n." that looks like a false start, kept as ink.
+	p903	"per R. Antonium Davidem Caimum": same R. as elsewhere, reader "q.". Reverendus fits a parish priest; changes him from dead to living in the wording.
+	p903	Lupo instrument: 1672[?] stands at the pixels, but 06-49 p649/p650 give 15 Giug. 1671 for this act; reader 1 "1611". Last digit may be a cramped 1 or the copyist may have slipped.
+	p903	Byname: ink Cieccone (read 2), draft and reader 1 "Ciccone": a clear extra e. Darlone[?]: 06-49 p654 has "il Derlone", so r not v.
+	p904	Bagato testament year 1612[?]: last digit 1 or 2; reader "1611".
+	p904	"J. D." before Jo. Jacobo Fagnano: first letter unclear; reader "J. C." (same formula on p889, reader "J. C." there too).
+	p904	Castillionaeus debt L. 90. 1. 3: last digit a closed 3, reader "9".
+	p904	Bagato testament: 1611, last digit a plain slash under the rule; both readers 1611. Supersedes the earlier 1612[?] line, draft corrected.
+	p905	Page number last digit: 291 by sequence, ink could be read 2. Reader gave 292 here and on p906.
+	p906	Bombellus age: S-shaped digit = 5 as in "350" and "45", so 50; reader "30".
+	p907	Titular of S. Stefano: Buttius[?]; capital matches B of Baptista, reader "Duttius" here and "Butius" on p901.
+	p908	Confraternity aggregation year 1646[?]: last digit has the tall ascender of 6; reader "1640". 1646 falls after the registration date 1643 in the next line, so one of the two is off.
+	p908	"Collegio R.R. Oblatorum": letterform is the R of Rev.; reader "PP.".
+	p908	Two days: 28 Feb 1747 and 28 Sep 1643, both arched 2 by the rule; readers and draft 18. The 18 Dec 1739 on the same page is a plain slash and stays 18.
+	p911	Consecration of S. Giacomo: 28 Apr 1573. Third digit is the y-shaped 7, ruling out reader 2 "1513"; arched 2 rules out "18". Oratory width: latitud. 11, two plain slashes (reader 1 "12", reader 2 "11").
+	p912	Chaplain: "Dru-[?]/gum": ink shows u, readers "Bru-/gum", p908 has Honoratus Dragus; likely the same man with a slip. Also "Domus De Fagnani." here and "Familiae De Fagnani," on p907: no final s, readers "Fagnanis"/"Fagnani".
+
+x-5-1642-74 (capture 4, 2026-10-31; two gemini-4-argon reads, reconciled by Opus 5.5)
+	p914	Applani: draft and read 1 Applani, read 2 Appiani. The hand writes a tall looped l here and in p935, p944, p945; kept as written. Same question for every Applani in this register.
+	p915	Name: Tradechi[?] (chaplain of S. Caterina); readers Tischi and Trachi. Compare p921, where the vitalizio chaplain of S. Caterina, also Giuseppe, reads Cronichus[?] or Caronchus.
+	p915	Name: Gulletto[?] and the first name cut off at Ma[...]; signature de Domis[?]. Surname Mazzuchello accepted: X 42 p832-p840 has Steffano Mazuchello as Prevosto in 1654.
+	p917	Verb after asseribus: honestetur[?] (read 2), read 1 limitetur. Latin of the decree is hard either way.
+	p919	Dedication at Oltrona: ink gives Xp[ist]o Seruatori; read 1 Saluatori, read 2 Sancto Senatori. Provost's surname Fossato[?] also wants checking.
+	p922	Date: 18 Aprilis from the ink; read 1 has 16. Agrees with this hand's 8 in the amounts below.
+	p923	Amount: L 20 : 18 : 9. Both reads give 16; the digit matches this hand's 8 in p922 (978, 888) and differs from its 6.
+	p924	Name: Moijnus[?], curate of Fenegrò and chancellor; read 1 Maijnus, read 2 Moijanus. The first vowel carries a correction or blot.
+	p927	Name: Capiam[?] Comen[sem], read 1 Capiam, read 2 Cagniam. Pixels do not decide.
+	p928	Names: Lupeto[?] (read 2 Lupreto) and il Matrino[?] (read 2 il Mabrino).
+	p928	Number: sexcentum[?] foliorum, 600 leaves; both reads agree but p941 has tercentum for the same kind of register.
+	p932	Name: Giul[i]o[?] written above struck Carlo, Cassina. p915 calls him Gio: Cassina. Second chaplain Bonasano[?], read 2 Ronasano.
+	p934	Year: reads give 1642; draft has 1641 and this photo is the same leaf as p343, which also has 1641. Both frames show the same digit; a human should confirm because the register's slug starts at 1642.
+
+x-6-1589-1686 (capture 4, 2026-10-31; two gemini-4-argon reads, reconciled by Opus 5.5)
+	p956	Witness: Fran[cis]co Criuelli[?]; initial may be Z/C, kept with [?] because of the dominant-name trap. Second witness P[re]te Paulo Carpano[?], reader 1 "Carpano", reader 2 "fagnani". Chaplain mauachi[?] (reader note also Manachi).
+	p957	DATE SETTLED: die 23 Julij 1649. Readers "xij ... 1619" and "22 ... 1649" both wrong. Digits are r-shaped 2 + z-shaped 3; p958 reads also give 23. p960 copy looks like 27, see that line.
+	p957	Field name: Bozza[?], low letters with no ascender, so not long s. p958 readers "Borra"; p960 copy "alla Bossa"; p961 to p963 and p968 "Bossassa". Possibly one toponym spelled four ways. Needs a human eye and local toponymy.
+	p957	Signatures: F. Turr[ius] V. G. and Pro M. R. D. Canc[ellari]o Anguis[ola]. Readers gave "[...] Vic." and "Arigonus"/"Aug."; p960 copy spells out Fran[ciscu]s Turrius and Anguisola. Confirm the chancellor is Anguissola.
+	p959	Year 1650 kept against both readers ("1630"). The third digit is ambiguous 3/5 alone, but the rescript is 1649 and the same notary's 1650 on p968 has the same shape, fixed by indiction 3 and Innocent X year 6.
+	p960	Day of copied rescript: 27[?], reader 2 "22"; original p957 has 23. The copy digit looks like a 7, so a copying slip is likely. Kept as the ink shows and stated in the header.
+	p960	Copy changes the original: Preuosto, alla Bossa, supplicantes/uellent for supp[lican]s/uellet, et uoto Periti for et rel[atio]ne Periti.
+	p961	Neighbour: Marci Antonij de Rubijs[?], readers "de Batijs[?]"; p968 readers "de Rubeis"/"Rabie". Initial is the R of this hand. Coherent also has Equitis, not Comitis, for Angelo Fagnani: readers "Comitis" on p961, "Equitis" on p968; zoom shows Eq-.
+	p961	Area of Church field: perticaru[m] triu[m] [...], then a run into the gutter with an interlinear addition; readers "d[imidia] iud[ici]o" and "d[...] tab[ularum]". A half pertica or tabulae here would change the size. Please check at the volume.
+	p961	Field name at gutter: alla Boss[...][?], readers "Bellolla" / "Bellona". Long s and l look alike here; line 21 of this page has the fuller form. p961 So che poco[?]: reader "pero"; p968 poco fa[?].
+	p963	Price per pertica: trentacinq[ue][?], reader 1 "trentaduoj" (32), reader 2 "trentacinq[ue]". Ink abbreviated at end, not decidable.
+	p963	l'affittano a scolo[?], reader 2 "segale". Letters look b/t-e-d-o at the gutter; "biada" is also possible. A rent term, so it matters.
+	p964	Age of Landono: 33 (two identical digits), both readers "53". Draft stands.
+	p966	Testator spelled Franci[?], readers "Franci", "Frari"; p956 Francho. Line 4 p[er][?] looks like a doubled p. After 238 in both places there is a small sign before the colon, possibly a currency or a tail of the 8. Whether 238 is lire or Masses: "sino al d[ett]o numero" suggests Masses.
+	p967	Key word after tempesta: uagiezza[?], readers "uigienga", "viagiezza". Meaning unknown, a farm calamity.
+	p967	Signatures: Soldano[?] (ink long s + -ldano, readers "Stuano", "Litrano"; identity from p957 and p960). Clarici[?] (readers "Clariio", "Charini"; Clerici also possible). gatto[?] (tt or ll). bittone[?]: dotted i argues against identifying him with the perito Antonio Bellono, but check. Io S[?]. before Gioseffo unclear.
+	p968	Piola field: bona p[re]fatę Eccl[esi]ę . perticar[um] . triu[m], both readers "prefati Piolae ... octo". Ink and p961 agree on Church neighbours and 3 pertiche. Confirm: 3 not 8.
+	p968	Read against both readers: cu[m] uinea cu[m] trib[us] (not "et uinee cum omnibus"); plantis nucu[m]; mine tre (readers "un staro"); £ 20 (reader 1 "10"); £ 50 (both "10"); Ant[oniu]s Bellonus (reader 2 "Ioannes"). All agree with p961 to p962.
+	p968	Price of Piola field: più di tr[...] lire, blot at the page edge; both readers "otto". p961 gives 35, so this is probably trenta.
+	p968	Differences between minute and formal copy: Bellono aged 49 here (struck and rewritten), 45 on p962; Caprina rent mistura here, formentata on p962; seller Gio: Ant[oni]o here, Gio: Batt[ist]a Caimo on p962.
+
+OLDER PAGES: errors found while checking capture 4 (2026-10-31). The files are NOT edited; owner decides.
+	p344-p354	Source: October reshoots p935-p945. 83 spots checked, 21 word errors, 8 omissions, 12 spelling-only, 4 dropped ę. Translations of p344, p346, p348, p350, p352, p353, p354 carry them.
+	p344	Old final has sericis; October photo p935 shows stellulis (May photo too). Translation 'si orni di seta' is wrong as a result.
+	p344	Old final has intus uestiatur; October photo p935 shows intra uestiatur.
+	p344	Old final has Appiani in the heading; October photo p935 shows Applani.
+	p344	Old final has Conopeum and stanneum; October photo p935 shows Conopoeum and stamneum.
+	p345	Old final has prescriptam; October photo p936 shows pręscriptam.
+	p346	Old final has cancelli aliqui apponantur; October photo p937 shows cautio[?] (read 2) or concha[?] (read 1), overwritten, then aliqua apponatur. Translation 'alcuni cancelli' is wrong as a result.
+	p346	Old final has D. Carolus; October photo p937 shows R. Carolus followed by a blank left for the surname. Translation 'signor Carlo' follows the error.
+	p346	Old final has perill[ustrissi]mo; October photo p937 shows perIll[ust]ri. Translation 'Perillustrissimo' follows the error.
+	p346	Old final has suppetant and candelas; October photo p937 shows suppetent and candellas.
+	p347	Old final has preterito; October photo p938 shows pręterito. It also omits the catchword iteru[...] at the foot of the leaf.
+	p348	Old final has annuatim; October photo p939 shows annuale (May photo too).
+	p348	Old final has Crivelli; October photo p939 shows Cribelli (May photo too).
+	p348	Old final has Catharinae and privilegiatum; October photo p939 shows Catherinę and priuileggiatum.
+	p349	Old final has in d[...] as catchword; October photo p940 shows in + d or q + two letters cut by the edge. Both reads give in quo, as p941 begins. Not settled.
+	p350	Old final has Conetur; October photo p941 shows Conatur, in both photos. Read 1 gives Ematur, which suits p928 emat librum; capital looks like this hand's E, next letters like o+n. Translation 'Si appronti' is a guess.
+	p350	Old final has d[ic]tae eiusmodi; October photo p941 shows eiusmodi with dem written above modi (eiusdem), no dictae.
+	p350	Old final has trigesimae; October photo p941 shows trigessimę.
+	p351	Old final has Celum and Cȩtera; October photo p942 shows Coelum and Coetera. It also omits the catchword De legati[s].
+	p352	OLD PAGE X 5, correction needed, not edited: the transcription has "Carolus Andreas Basius[?] Forane[ae] Regionis Visitator"; the image reads "Carolus Andreas Bassius Tertiae Regionis Visitator", which agrees with p784.
+	p352	Old final has Basius[?]; October photo p943 shows Bassus (May photo too).
+	p352	Old final has Forane[ae] Regionis; October photo p943 shows Tertię Regionis (May photo too). Visitor of the third region.
+	p352	Old final has Quecunq[ue]; October photo p943 shows Quęcunq[ue].
+	p353	Old final has sic prout scriptum est; October photo p944 shows sic fore scriptu[m] u[idelice]t.
+	p353	Old final has D[omi]ni providentia; October photo p944 shows D[iui]na prouidentia. Translation 'il Signore per provvidenza' follows the error.
+	p353	Old final has Dioecesis Mediolani; October photo p944 shows Duc[atu]s Mediolani. Translation 'diocesi' follows the error.
+	p353	Old final has omnibus modis; October photo p944 shows omnibus modo &c.
+	p353	Old final has ex Bullis; October photo p944 shows ex Bulla &c. Translation 'dalle Bolle' follows the error.
+	p353	Old final has Senam, twice; October photo p944 shows Seua[m][?], minims closer to u than n in both photos and both places. Read 1 Sena, read 2 Seua. Human call needed on the proctor's surname.
+	p353	Old final has Nottarium and Bartholomei; October photo p944 shows Notariu[m] and Bartolomei. It also omits the margin note Gerenzani and the &c. after constituit.
+	p354	Old final has Notarij s[uprascrip]ti; October photo p945 shows Notarij &c.
+	p354	Old final has Sub p[en]a; October photo p945 shows Sub ref[ectio]ne &c.
+	p354	Old final has signo mei / consueti confeci; October photo p945 shows signo mei Ta[bel-] / lionatus confeci &c. A formula completion in the old pass. May photo shows lionatus too.
+	p354	Old final has Appiani and Presbyter; October photo p945 shows Applani and Pręsbyter.
+	p354	Old final omits text at the gutter; October photo p945 shows prout ge[stum], Infrascripti lo[ci] and Burgus f[ilius] q[uondam][?]. The q[uondam] would make Joannes Petrus dead by 1662; read 1 lacks it, so check at the volume.
+	p352	X 25 p784 confirms Carolus Andreas Bassius Tertiae Regionis Visitator, against Basius[?] Forane[ae] Regionis.
+	p683	06-49 "Sac. Guidici[?] Matteo" and "Legato Zanetto": same testator and notary as Guzzetto on X 49 p900.
+	p681	06-49 "Olasi[?] Not. di Novello": same man as Oleario, parish priest of Rodelli on X 49.
+	p684	06-49 "il Malusino": il Malnino on X 49 p899.
+	p459	06-43 line 6 "17 7bre 1632" against "17 Xbre 1632" in line 3 of the same page.

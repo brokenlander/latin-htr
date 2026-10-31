@@ -9,7 +9,10 @@ background — and crop to it with padding. Deliberately:
     nearly the whole frame, fall back to the FULL frame — we never clip document text.
 One crop per photo -> processed/cropped/<slug>/<pid>.jpg ; merges dataset/pages.csv.
 
-Usage: PYTHONPATH=scripts .venv/bin/python3 scripts/crop_single.py <pid> [pid ...] [--preview]
+--full writes the EXIF-oriented whole frame with no detection: use it on tight phone shots
+of bound volumes (capture 4), where crop_pages.py and the sheet detector both clipped text.
+
+Usage: PYTHONPATH=scripts .venv/bin/python3 scripts/crop_single.py <pid> [pid ...] [--preview] [--full]
 """
 import os, csv, sys
 import numpy as np
@@ -87,7 +90,7 @@ def detect_document_box(path):
         return (*full, "fullframe-no-trim")
     return box, ratio, "crop"
 
-def main(subset, preview):
+def main(subset, preview, full=False):
     rows = list(csv.DictReader(open(MANIFEST)))
     if subset:
         rows = [r for r in rows if r["page_id"] in subset]
@@ -97,7 +100,11 @@ def main(subset, preview):
     pages, modes = [], {}
     for r in rows:
         pid = r["page_id"]
-        box, ratio, mode = detect_document_box(r["orig_path"])
+        if full:
+            with load_oriented(r["orig_path"]) as im:
+                box, ratio, mode = (0, 0, im.width, im.height), 1.0, "fullframe-forced"
+        else:
+            box, ratio, mode = detect_document_box(r["orig_path"])
         modes[mode.split("(")[0]] = modes.get(mode.split("(")[0], 0) + 1
         sl = paths.slug(r["register"])
         outdir = os.path.join(OUTDIR, sl)
@@ -128,4 +135,4 @@ if __name__ == "__main__":
     args = sys.argv[1:]
     preview = "--preview" in args
     ids = [a for a in args if not a.startswith("-")]
-    main(set(ids) or None, preview)
+    main(set(ids) or None, preview, "--full" in args)

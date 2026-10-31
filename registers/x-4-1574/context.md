@@ -78,3 +78,8 @@ in Gero, in caserij, in bouarecia, la Garagiolla, "al prà", "il stallazzo" (a F
 - Tens-digit ambiguity (16 vs 26) and 5↔8 are common at 2 MP — mark [?] rather than guess.
 - "p" = per/par; "q" = que/quon; "9br"=Novembre, "xbr"=Dicembre, "7br"=Settembre; "m.o"=messer/maestro;
   "p.p.to/ppto"=preposito; "fr.llo/f.llo"=fratello; "M./m.a"=moggia; "st"=staro/staia; "R"=rubbo.
+
+**Photo framing (capture 4):** these are uncropped phone photos of a bound volume. The frame may also show a strip of the facing page, the table, fingers or the next leaf. Transcribe ONLY the main page. Text on a facing page or a neighbouring leaf is NOT part of this page; report it in `notes`. Bleed-through from the verso is NOT text.
+
+## Verified in the X 4 leaves added in capture 4 (2026-10-31)
+p804-p814: copy of the act of 14 June 1564 on Cornelia della Croce's dowry of 700 lire at S. Lucia in Milan, with the field returned at perpetual livello. p803: letter of 5 April 1571.

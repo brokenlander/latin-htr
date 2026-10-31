@@ -6,11 +6,12 @@
 > reading each page with a frontier vision-LLM, reconciling that read against the original image, and
 > then translating the result into modern Italian.
 
-**Status: complete.** All **656 pages** now have a semi-diplomatic transcription in
+**Status: complete.** All **995 pages** now have a semi-diplomatic transcription in
 [`transcriptions/`](transcriptions/) and a modern-Italian translation in
-[`translations/`](translations/). The corpus is two captures: the original **7 episcopal/visitation
-registers** (383 pages, c. 1566–1691) and a later **parish archive of Gerenzano** (273 pages, documents
-**1438–1892**, in 29 fascicoli across 5 fondi). The two trees mirror each other file-for-file: the same
+[`translations/`](translations/). The corpus is four captures: the original **7 episcopal/visitation
+registers** (383 pages, c. 1566–1691), the **parish archive of Gerenzano** (273 pages, documents
+**1438–1892**, in 29 fascicoli across 5 fondi), a third capture of **legati and the Fagnani testament**
+(79 pages) and **Archivio Diocesano 2** (260 pages). What was done for each is noted in [`batches/`](batches/). The two trees mirror each other file-for-file: the same
 `<slug>/<page>.txt` path gives you the original text on one side and its Italian on the other.
 
 Early-modern clerical cursive is genuinely hard — abbreviated, idiosyncratic, mixing Latin and
@@ -63,7 +64,7 @@ signal that drives quality — it has simply moved from *engine vs. engine* to *
 
 ## The archive
 
-Two captures, **632 photographs → 656 pages**.
+Four captures, **968 photographs → 995 pages**.
 
 ### Capture 1 — the episcopal/visitation registers (383 pages, c. 1566–1691)
 
@@ -101,6 +102,10 @@ than the visitation registers above, and overlapping the same families and place
 
 Pages from this capture are keyed `p360–p632`; each opens with a printed *fondo / serie / fascicolo*
 cover sheet.
+
+### Captures 3 and 4
+
+Capture 3 (79 pages, `p633–p708`): `03-04`, `06-46`, `06-49` and the Fagnani testament dossier. Capture 4 (260 pages, `p709–p968`): volumes X 6, X 24, X 25, X 42, X 49 and X 50, plus new leaves for X 4 and X 5 in their existing folders. Notes: [`batches/`](batches/).
 
 > Source scans are **not committed** (size + rights); the pipeline reads them from `raw/`.
 
@@ -165,14 +170,15 @@ transcriptions/<slug>/<pid>.txt     ★ semi-diplomatic transcription per page (
   turate/reconciled_combined.txt     all Turate census pages stitched into one file
 translations/<slug>/<pid>.txt        ★ modern-Italian translation per page (THE deliverable)
   turate/italiano_combined.txt       all Turate census pages, in Italian, in one file
+batches/                             one note per capture: what arrived, what was done, what stays open
 registers/<slug>/context.md          per-register glossary (people, places, families) used in every read
 pipeline/                            the live pipeline: Gemini read + reconcile (gemini_htr.py, config.json)
 scripts/                             preprocessing: build_manifest.py, crop_pages.py, paths.py
-dataset/manifest.csv, pages.csv      photo inventory (632 photos) + page index (656 pages)
+dataset/manifest.csv, pages.csv      photo inventory (968 photos) + page index (995 pages)
 raw/, processed/                     scans + regenerable working area (gitignored, not in this repo)
 ```
 
-Pages are keyed `p001…p632` (capture 1 = `p001–p359`, capture 2 = `p360–p632`); an `a`/`b` suffix marks
+Pages are keyed `p001…p968` (capture 1 = `p001–p359`, capture 2 = `p360–p632`, capture 3 = `p633–p708`, capture 4 = `p709–p968`); an `a`/`b` suffix marks
 the two halves of an open-book spread.
 
 **Conventions.** Transcriptions are *semi-diplomatic*: the scribe's spelling and abbreviations are
@@ -208,11 +214,11 @@ The reconciliation and translation passes are LLM-in-the-loop against the croppe
 ## Status
 
 - [x] Acquire & extract both captures (632 photos)
-- [x] Manifest + page index (656 pages)
+- [x] Manifest + page index (995 pages)
 - [x] Preprocessing — EXIF + open-book **spread-splitting** + crop-to-text
 - [x] Production pipeline: **Gemini 3.1 Pro read + image-grounded LLM reconciliation**
-- [x] **Transcription — 656/656 pages** → [`transcriptions/`](transcriptions/)
-- [x] **Translation — 656/656 pages into Italian** → [`translations/`](translations/)
+- [x] **Transcription — 995/995 pages** → [`transcriptions/`](transcriptions/)
+- [x] **Translation — 995/995 pages into Italian** → [`translations/`](translations/)
 - [ ] Human paleographer spot-check of the review queue → verified gold + true error rate
 - [ ] Text-based deduplication of visually-similar register pages
 - [ ] Confirm the Turate **1579** date against the physical book

@@ -4,8 +4,8 @@ Reusable tool for transcribing early-modern cursive (Italian + Latin) at scale.
 **Full operating guide lives in `../HANDOVER.md`.** This README is the quick map.
 
 ## One rule
-**Gemini 3.x Pro ONLY** (`config.json`), never 2.5, never Flash. `thinking_level: low` —
-A/B-locked, never raise to high (see `HANDOVER.md` §2). Never invent text; the image always wins.
+**Gemini 4 Argon ONLY** from capture 4 on (`config.json`); p001–p708 were read by Gemini 3.1 Pro. Never 2.5, never Flash.
+`thinking_level: high` on Argon: on X 50 it kept scribal spelling and flagged cut words that `low` modernised or filled in. The `low` lock in `HANDOVER.md` §2 applied to 3.1 Pro only. Never invent text; the image always wins.
 
 ## Flow
 ```
@@ -19,7 +19,7 @@ re-bills) a finished page. There is **no Gemini reconcile call** in the default 
 ## Files
 | file | role |
 |---|---|
-| `config.json` | pinned model/params (3.1-pro, thinking=low, n_samples=1); benched-kraken gate |
+| `config.json` | pinned model/params (gemini-4-argon, n_samples=2); benched-kraken gate |
 | `gemini_htr.py` | `sample`/`agree`/`run`/`status` orchestrator; quota autostop; structured JSON + provenance |
 | `validate.py` | structural lints over `reconciled/` → flag re-review (advisory, exits 0) |
 | `_run_v2.sh` | detached sampler launcher (the caller runs it under `setsid`; the watchdog does) |

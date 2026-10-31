@@ -2,7 +2,7 @@
 """
 gemini_htr.py — ironclad, repeatable HTR pipeline for the diocesan archive.
 
-ONE model only: Gemini 3.x Pro (see pipeline/config.json). NEVER 2.5, NEVER Flash.
+ONE reader only: the model pinned in pipeline/config.json (Gemini 4 Argon). NEVER 2.5, NEVER Flash.
 
 Gemini does the heavy lifting; Claude (the in-session agent) is the final image gate.
 
@@ -141,7 +141,7 @@ def call_gemini(parts, schema, temperature, max_tokens=None):
             "responseSchema": schema,
         },
     }
-    if MODEL.startswith("gemini-3"):
+    if MODEL.startswith(("gemini-3", "gemini-4")):
         body["generationConfig"]["thinkingConfig"] = {"thinkingLevel": CFG["thinking_level"]}
     url = API.format(m=MODEL, k=KEY)
     data = json.dumps(body).encode()

@@ -23,3 +23,8 @@ S[anctissi]mo, q[uon]d[am], R[everendissi]mus, Ill[ustrissi]mus).
 - Long-s (ſ) reads as f; near-blank/divider pages → transcribe only real text (bleed-through is not text).
 - Index/tabula pages: keep the folio numbers; treat faint left-margin numerals as later archival marks.
 - Figures/dates faint or cut → `[?]`, never invent.
+
+**Photo framing (capture 4):** these are uncropped phone photos of a bound volume. The frame may also show a strip of the facing page, the table, fingers or the next leaf. Transcribe ONLY the main page. Text on a facing page or a neighbouring leaf is NOT part of this page; report it in `notes`. Bleed-through from the verso is NOT text.
+
+## Verified in the X 5 leaves added in capture 4 (2026-10-31)
+p914-p915 Status of the Pieve 1657; p916-p918 decrees 1662; p919-p921 visit 1663 (Gerenzano 4 December); p922-p924 visit 18 April 1674; p926-p929 undated draft decrees; p932-p933 undated report. p934 is p343 re-photographed; p935-p945 are p344-p354 re-photographed.
